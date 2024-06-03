@@ -1,0 +1,2 @@
+# Recovery-of-encoded-information-from-conjugate-superimposed-PVBs-in-scattering-environments
+During the transmission process of vortex optical communication, scattering effects result in the degradation of signal quality and increase the complexity of decoding. Our goal is to design a framework that can recover the encoded signal from the speckle field, thereby reducing the effects of scattering.
